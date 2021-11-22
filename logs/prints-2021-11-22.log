@@ -1,0 +1,27 @@
+13:52:28.325 [main] INFO  utilities.BaseTest - Clicked on the christmas tab
+13:52:29.021 [main] INFO  utilities.BaseTest - Clicked on the sort by option
+13:52:34.704 [main] INFO  utilities.BaseTest - Product validated after sorting
+13:52:47.201 [main] INFO  utilities.BaseTest - User email id entered
+13:52:49.528 [main] INFO  utilities.BaseTest - Signup button clicked
+13:55:20.177 [main] INFO  utilities.BaseTest - Clicked on the christmas tab
+13:55:20.751 [main] INFO  utilities.BaseTest - Clicked on the sort by option
+13:55:25.278 [main] INFO  utilities.BaseTest - Product validated after sorting
+13:55:41.517 [main] INFO  utilities.BaseTest - User email id entered
+13:55:43.992 [main] INFO  utilities.BaseTest - Signup button clicked
+13:56:00.494 [main] INFO  utilities.BaseTest - navigated to Add giftcard section
+13:56:02.902 [main] INFO  utilities.BaseTest - Gift card added successfully
+13:56:16.409 [main] INFO  utilities.BaseTest - All tab clicked and page loaded
+13:56:21.257 [main] INFO  utilities.BaseTest - navigated to 2nd page
+13:56:21.541 [main] INFO  utilities.BaseTest - Product is successfully displayed
+13:56:41.481 [main] INFO  utilities.BaseTest - product added to cart
+13:57:04.503 [main] INFO  utilities.BaseTest - contact page loaded successfully
+13:57:13.384 [main] INFO  utilities.BaseTest - message sent successfully
+13:57:24.638 [main] INFO  utilities.BaseTest - Homepage loaded successfully
+13:57:34.618 [main] INFO  utilities.BaseTest - Hover performed successfully
+13:57:45.197 [main] INFO  utilities.BaseTest - desired page loaded successfully
+13:57:58.156 [main] INFO  utilities.BaseTest - Login Page loaded successfully
+13:58:02.398 [main] INFO  utilities.BaseTest - Email entered successfully
+13:58:02.513 [main] INFO  utilities.BaseTest - password entered successfully
+13:58:07.994 [main] INFO  utilities.BaseTest - Verifying the Signout button
+13:58:27.466 [main] INFO  utilities.BaseTest - Searching for the product
+13:58:30.872 [main] INFO  utilities.BaseTest - Searched product displayed successfully

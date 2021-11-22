@@ -1,0 +1,3 @@
+13:58:47.053 [main] INFO  utilities.BaseTest - Product added to wishlist
+13:58:55.665 [main] INFO  utilities.BaseTest - Wishlist page loaded successfully
+13:58:55.810 [main] INFO  utilities.BaseTest - Wishlist page loaded and product visibility in wishlist verified
